@@ -34,9 +34,8 @@ Testing of different models can be reviewed in `src/notebooks/pruebas.ipynb`.
 - Add data from parameters not included in the initial dataset  
 - Advanced text processing to better handle textual columns
 
----
 
-## 📁 Project Structure
+## Project Structure
 
 ```plaintext
 ├── src/                # Project resources
@@ -47,9 +46,9 @@ Testing of different models can be reviewed in `src/notebooks/pruebas.ipynb`.
 ├── main.ipynb          # Main notebook summarizing and executing the project
 ├── presentacion.pdf    # Project presentation
 ├── README.md
+```
 
-
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Predicción de Precios de Productos en Amazon
 
@@ -96,7 +95,7 @@ La prueba de los distintos modelos se puede revisar en (src/notebooks/pruebas.ip
 
 ## Estructura del proyecto
 
-```python
+```plaintext
 ├── src/                # Contiene recursos del proyecto
     ├── data_sample/    # Contiene el dataset
     ├── img/            # Imágenes del proyecto
